@@ -1,0 +1,145 @@
+*{
+	position: relative;
+}
+body{
+	background:#dce2e2 url('../images/bg.png') repeat-x;
+	margin:0px;
+	padding:0px;
+	font-family:'Times New Roman', sans-serif;
+}
+.ultra-light{
+	font-family: 'Lato', sans-serif;
+}
+#content{
+	margin:0px auto;
+	width:1300px;
+	min-height:768px;
+}
+#left, #right{
+	float:left;
+}
+#left{
+	width:973px;
+	min-height:100px;
+}
+#container{
+	z-index: 100;
+	width:910px;
+	height:670px;
+	margin:30px auto;
+	background:silver;
+	background:rgba(255,255,255,0.3);
+	padding:15px;
+	-moz-box-shadow: 1px 1px 30px grey;
+	-webkit-box-shadow: 1px 1px 30px grey;
+	box-shadow: 1px 1px 30px grey;
+}
+#inner-container{
+	width:910px;
+	height:670px;
+	background:white;
+}
+#right{
+	width:327px;
+	height:768px;
+}
+#ribbon{
+	width:100%;
+	height:100%;
+	background:url('../images/white_ribbon_banner.png');
+	margin:0px;
+}
+#spacer{
+	height:100px;
+}
+#bubble{
+	width:141px;
+	height:155px;
+	margin:40px auto 20px;
+}
+#bubble.open{
+	background:url('../images/bubble_1open.png');
+}
+#bubble.info{
+	background:url('../images/bubble_2info.png');
+}
+#bubble.blog{
+	background:url('../images/bubble_3blog.png');
+}
+#bubble.art{
+	background:url('../images/bubble_4art.png');
+}
+#bubble.projects{
+	background:url('../images/bubble_5projects.png');
+}
+#bubble.commissions{
+	background:url('../images/bubble_6commissions.png');
+}
+#bubble.prints{
+	background:url('../images/bubble_7prints.png');
+}
+#dresser{
+	margin:0px auto;
+	width:210px;
+	height:297px;
+	background:url('../images/dresser.png');
+}
+#dresser #top-drawers{
+	height: 60px;
+	width: 200px;
+	margin: 0px auto 1px;
+}
+#dresser .top-drawer{
+	width:92px;
+	height:60px;
+	float: left;
+	margin: 21px 0px 0px 5px;
+	cursor:pointer;
+	display:block;
+	z-index:50;
+	position:relative;
+}
+#dresser .top-drawer:first-child:hover,
+#dresser .top-drawer:first-child.active{
+	background:url('../images/open_top_drawer_1.png');
+}
+#dresser .top-drawer:last-child:hover,
+#dresser .top-drawer:last-child.active{
+	background:url('../images/open_top_drawer_2.png');
+}
+#dresser #drawers{
+
+}
+#dresser .drawer{
+	width: 188px;
+	height: 79px;
+	margin: 0px auto;
+	position:relative;
+	cursor:pointer;
+	display:block;
+}
+#dresser .drawer:nth-child(1){
+	z-index:40;
+}
+#dresser .drawer:nth-child(2){
+	z-index:30;
+	bottom:31px;
+}
+#dresser .drawer:nth-child(3){
+	z-index:20;
+	bottom:62px;
+}
+#dresser .drawer:nth-child(4){
+	z-index:10;
+	bottom:93px;
+}
+#dresser .drawer:hover,
+#dresser .drawer.active{
+	background: url('../images/open_drawer.png');
+}
+#backtohome{
+	margin:35px auto 0px;
+	width:198px;
+	height:98px;
+	background:url('../images/back_to_home_icon.png');
+}

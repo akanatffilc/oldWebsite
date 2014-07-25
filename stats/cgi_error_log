@@ -1,0 +1,224 @@
+20120110T145505: clifftanaka.com/home.php
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kurifu'@'boscgi3204.eigbox.net' (using password: YES) in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/mysqli.php on line 2
+
+20120110T145538: clifftanaka.com/home.php
+PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'kurifu'@'boscgi3204.eigbox.net' (using password: YES) in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/mysqli.php on line 2
+
+20120305T104906: www.clifftanaka.com/submitcomment.php
+PHP Warning:  require_once(../mysqli.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../mysqli.php' (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+
+20120305T104951: www.clifftanaka.com/submitcomment.php
+PHP Warning:  require_once(../mysqli.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../mysqli.php' (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+
+20120414T194003: clifftanaka.com/includes/blog.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 5
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb
+20120414T194206: clifftanaka.com/includes/blog.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 5
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb
+20120414T194231: clifftanaka.com/includes/blog.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 5
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb
+20120414T225336: clifftanaka.com/includes/blog.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120414T225459: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120414T225504: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120414T225531: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120414T225605: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120414T225651: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120415T014559: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120415T014948: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120415T015054: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120415T060357: clifftanaka.com/index.php
+PHP Warning:  include(/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 12
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/users/web/b2581/ipg.clifftanakacom1/20120410/db/SQLQuery.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/boswe
+20120415T060706: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 75
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 76
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T060830: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T060919: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T060921: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061011: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061121: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061500: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061547: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 74
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061742: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 72
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061751: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 72
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061825: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 72
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T061830: clifftanaka.com/index.php
+PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 72
+PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/db/SQLQuery.php on line 73
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on lin
+20120415T063215: clifftanaka.com/ajax/loadBlog.php
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/ajax/loadBlog.php on line 76
+
+20120415T063325: clifftanaka.com/index.php
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/ajax/loadBlog.php on line 76
+
+20120415T063341: clifftanaka.com/index.php
+PHP Warning:  Invalid argument supplied for foreach() in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/ajax/loadBlog.php on line 76
+
+20120415T142854: clifftanaka.com/submitcomment.php
+PHP Warning:  require_once(../mysqli.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../mysqli.php' (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+
+20120415T142950: clifftanaka.com/submitcomment.php
+PHP Warning:  require_once(../mysqli.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../mysqli.php' (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+
+20120415T143015: clifftanaka.com/submitcomment.php
+PHP Warning:  require_once(../mysqli.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../mysqli.php' (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/submitcomment.php on line 2
+
+20120418T180337: clifftanaka.com/write.php
+PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 13
+PHP Warning:  mysql_real_escape_string() [<a href='function.mysql-real-escape-string'>function.mysql-real-escape-string</a>]: A link to the server could not be established in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.
+20120418T180749: clifftanaka.com/write.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 40
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php:27) in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 44
+
+20120418T180953: clifftanaka.com/write.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 40
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php:19) in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 44
+
+20120418T181104: clifftanaka.com/write.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 40
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php:35) in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/write.php on line 44
+
+20120418T182020: clifftanaka.com/index.php
+PHP Parse error:  syntax error, unexpected T_ELSE in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 63
+
+20120418T182030: clifftanaka.com/index.php
+PHP Parse error:  syntax error, unexpected T_ELSE in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/includes/blog.php on line 63
+
+20120427T174005: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 48
+
+20120427T174015: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 48
+
+20120427T174037: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 48
+
+20120427T174040: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 48
+
+20120427T174108: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 42
+
+20120427T174112: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 42
+
+20120427T174130: clifftanaka.com/subscribe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/subscribe.php on line 42
+
+20120428T210058: clifftanaka.com/writerecipe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/writerecipe.php on line 54
+
+20120428T214912: clifftanaka.com/writerecipe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/writerecipe.php on line 101
+
+20120428T214959: clifftanaka.com/writerecipe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/writerecipe.php on line 101
+
+20120428T215104: clifftanaka.com/writerecipe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/writerecipe.php on line 103
+
+20120428T215230: clifftanaka.com/writerecipe.php
+PHP Parse error:  syntax error, unexpected '}' in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/writerecipe.php on line 104
+
+20120428T233216: clifftanaka.com/writerecipe.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/writerecipe.php on line 101
+
+20120506T230437: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/ribbon.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/ribbon.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+
+20120506T230450: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/ribbon.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/ribbon.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+
+20120506T230646: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/ribbon.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/ribbon.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+
+20120506T230710: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/ribbon.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/ribbon.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+
+20120506T230742: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/ribbon.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/ribbon.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 165
+
+20120506T235446: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/viewer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 103
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/viewer.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 103
+
+20120506T235518: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/viewer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 103
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/viewer.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 103
+
+20120506T235545: clifftanaka.com/flo/art.php
+PHP Warning:  include(include/viewer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 103
+PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/viewer.php' for inclusion (include_path='.:/usr/local/lib/php-5.2.17/lib/php') in /hermes/bosweb/web258/b2581/ipg.clifftanakacom1/flo/art.php on line 103
+
+20120608T210705: clifftanaka.com/write.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosoraweb045/b2581/ipg.clifftanakacom1/write.php on line 40
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb045/b2581/ipg.clifftanakacom1/write.php:35) in /hermes/bosoraweb045/b2581/ipg.clifftanakacom1/write.php on line 44
+
+20120611T204456: clifftanaka.com/write.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosoraweb045/b2581/ipg.clifftanakacom1/write.php on line 40
+
+20120620T190339: clifftanaka.com/write.php
+PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /hermes/bosoraweb045/b2581/ipg.clifftanakacom1/write.php on line 40
+

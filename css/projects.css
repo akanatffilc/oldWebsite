@@ -1,0 +1,84 @@
+#projects{
+
+}
+#projects h1{
+	margin:10px 15px;
+}
+#projects #display{
+	max-width:1040px;
+	min-height:400px;
+	margin:0px auto 30px;
+}
+#projects #display .project{
+	display:none;
+}
+#projects #display .project.active{
+	display:block;
+}
+#projects #display .project .images{
+	margin: 0px auto;
+	width: 90%;
+	padding: 20px 15px;
+	background: white;
+}
+#projects #display .project .images img{
+	margin: 0px 2.5%;
+}
+#projects #display .project:not(#display-yahoo) .images img{
+	width:45%;
+}
+#projects #display .project#display-yahoo .images img{
+	width:95%;
+}
+#projects #display h1{
+	font-size:3em;
+	font-weight:bold;
+	text-shadow: 0px -2px 2px #333;
+	color:grey;
+	margin:0px 10%;
+}
+#projects #display p{
+	margin: 0px 10% 25px;
+}
+#projects #gallery-container{
+	background: #333;
+	background: rgba(0, 0, 0, 0.8);
+	-moz-box-shadow: inset 0px 0px 10px black;
+	-webkit-box-shadow: inset 0px 0px 10px black;
+	box-shadow: inset 0px 0px 10px black;
+	border-top: 2px solid grey;
+	border-bottom: 2px solid grey;
+	margin-bottom: 20px;
+}
+#projects #gallery{
+	max-width: 1040px;
+	margin: 0px auto;
+	padding: 20px 0px;
+}
+#projects #gallery img{
+	display: inline-block;
+	width: 14%;
+	margin: 0px 1.1%;
+	cursor:pointer;
+	opacity:0.3;
+	-webkit-border-radius: 27px;
+	-moz-border-radius: 27px;
+	border-radius: 27px;
+}
+#projects #gallery img:hover{
+	-moz-box-shadow: 0px 0px 10px black;
+	-webkit-box-shadow: 0px 0px 10px black;
+	box-shadow: 0px 0px 10px black;
+}
+#projects #gallery img:active{
+	opacity:1;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+#projects #gallery img.active{
+	opacity:1;
+	-moz-box-shadow: 0px 0px 10px black;
+	-webkit-box-shadow: 0px 0px 10px black;
+	box-shadow: 0px 0px 10px black;
+}

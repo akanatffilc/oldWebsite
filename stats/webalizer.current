@@ -1,0 +1,219 @@
+# Webalizer V2.23-08 Incremental Data - 07/24/2014 23:50:02
+2014 7 24 23 50 2
+51 50 4 35 3 3 2568606 9 3 0
+3 39 39 23 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 9668 1 2 1
+49 48 2558938 3 7 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+9 8 320735 1
+0 0 0 0
+0 0 0 0
+1 1 2207 0
+0 0 0 0
+41 41 2245664 8
+0
+0
+0
+50
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/projects.js
+0 2 0 820 0 0
+/images/ajax-loader.gif
+1 1 0 10819 0 0
+/images/himawari-big2.png
+1 1 0 85811 0 0
+/images/kindermath.png
+1 1 0 118529 0 0
+/images/kuni.png
+1 1 0 65992 0 0
+/images/makino-big2.png
+1 1 0 555238 0 0
+/css/blog.css
+0 2 0 12026 0 0
+/images/kindermath-big2.jpg
+1 1 0 30223 0 0
+/js/blog.js
+0 2 0 6268 0 0
+/images/kuni-big2.png
+1 1 0 90403 0 0
+/images/blue-pattern.png
+1 1 0 947 0 0
+/includes/about.php
+0 1 0 6809 0 0
+/includes/blog.php
+0 1 0 8268 0 0
+/favicon.ico
+0 1 0 22639 0 0
+/images/himawari.png
+1 1 0 119763 0 0
+/images/makino.png
+1 1 0 75226 0 0
+/css/about.css
+0 2 0 1238 0 0
+/js/jquery-ui-1.8.14.custom.min.js
+0 2 0 420492 0 0
+/css/style.css
+0 2 0 9596 0 0
+/images/kindermath-big1.jpg
+1 1 0 33386 0 0
+/js/javascript.js
+0 2 0 4414 0 0
+/images/yahoo.png
+1 1 0 14507 0 0
+/css/projects.css
+0 2 0 3412 0 0
+/js/jquery-1.6.1.min.js
+0 2 0 182684 0 0
+/images/about.jpg
+1 1 0 49219 0 0
+/images/kuni-big1.png
+1 1 0 62510 0 0
+/images/orange-pattern.png
+1 1 0 949 0 0
+/
+0 7 0 40971 3 0
+/images/himawari-big1.png
+1 1 0 108559 0 0
+/images/siefbar.png
+1 1 0 26369 0 0
+/images/mci-big2.png
+1 1 0 46487 0 0
+/images/mci.png
+1 1 0 96688 0 0
+/images/mci-big1.png
+1 1 0 90948 0 0
+/images/makino-big1.png
+1 1 0 164679 0 0
+/images/green-pattern.png
+1 1 0 950 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.64.7
+0 5 4 99268 1 1406225201
+/
+38.100.21.120
+0 2 2 9668 1 1406159763
+/
+66.249.64.2
+0 5 5 223674 0 0
+-
+118.238.3.177
+0 39 39 2235996 1 1406245802
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.64.7
+0 5 4 99268 1 1406225201
+/
+66.249.64.2
+0 5 5 223674 0 0
+-
+118.238.3.177
+0 39 39 2235996 1 1406245802
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 8
+http://cliff.tokyo/
+1 36
+http://www.cliff.tokyo/
+1 7
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 39
+MSIE 7.0
+0 2
+Netscape 6 compatible
+2 39
+Googlebot/2.1
+0 10
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
